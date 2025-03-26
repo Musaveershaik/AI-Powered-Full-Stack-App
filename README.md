@@ -70,7 +70,8 @@ mvn spring-boot:run      # Run the backend server
 
 | Chat Interface |
 |---------------|
-| ![Chat UI](https://github.com/user-attachments/assets/sample-image-url) |
+| ![image](https://github.com/user-attachments/assets/0173dcd5-f605-46ce-8d0a-12ba205120a9)
+ |
 
 ---
 
